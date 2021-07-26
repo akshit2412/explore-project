@@ -1,0 +1,108 @@
+
+.paperc1{
+    margin-top: 2%;
+  }
+
+.imginput input{
+  height: 0;
+  width: 0;
+  opacity: 0;
+
+}
+
+.imginput{
+  float: left;
+}
+
+
+
+
+.submitc6{
+    /* display: flex;
+    justify-content:center;
+    margin-top: 5%; */
+    /* text-align: center;     */
+}
+
+@media screen and (max-width: 500px){
+.submitc5 {
+    width: 80%;
+    height: 35px;
+    border-radius:0.2rem;
+    font-size: 1rem;
+    background-image: linear-gradient(to right, #2196F3 30%, #21CBF3  90%);
+    margin-left: 3%; 
+}  
+.uploadc{  
+  font-size: 0.8rem;
+  cursor: pointer;
+  font-family:monospace;
+  /* margin-left: 1.3rem; */
+  font-weight: 700;
+  float: left;
+}
+}
+
+@media screen and (min-width: 500px){
+.submitc5 {
+    width: 35%;
+    height: 35px;
+    border-radius:0.2rem;
+    font-size: 1.3rem;
+    background-image: linear-gradient(to right, #2196F3 30%, #21CBF3  90%);
+    margin-left: 7%; 
+}  
+.uploadc{  
+  font-size: 1rem;
+  cursor: pointer;
+  font-family:monospace;
+  /* margin-left: 1.3rem; */
+  font-weight: 700;
+  float: left;
+}
+}
+
+@media screen and (min-width: 800px){
+.submitc5 {
+    width: 30%;
+    height: 44px;
+    border-radius:0.2rem;
+    font-size: 1.3rem;
+    background-image: linear-gradient(to right, #2196F3 30%, #21CBF3  90%);
+    margin-left: 10%;
+    margin-top: 3%;
+    
+}  
+.uploadc{  
+  font-size: 1.2rem;
+  cursor: pointer;
+  font-family:monospace;
+  /* margin-left: 1.3rem; */
+  font-weight: 700;
+  float: left;
+  margin-top: 10%;
+}
+}
+
+
+
+
+
+.removec{
+  border:none;
+  background-color:inherit;
+  font-weight: bold;
+}
+
+
+        
+
+.labelc1 {
+    text-align: center;
+    font-size: 2.4rem;
+    margin-bottom: 1.4rem;
+    font-family: fell, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+
+

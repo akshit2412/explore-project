@@ -1,0 +1,38 @@
+.paperp{
+    margin-top: 12%;
+    align-items: center;
+    width: "100%";
+}
+.formp{
+    margin:5%;
+
+}
+.submitp3{
+     text-align: center;
+     padding:10%;
+
+
+}
+
+.submitp4 {
+    width: 180px;
+    height: 44px;   
+    border-radius:0.2rem;
+    font-size: 1.1rem;
+    background-image: linear-gradient(to right, #2196F3 30%, #21CBF3  90%);
+
+}
+
+        
+.labelp {
+
+    text-align: center;
+    font-size: 2.2rem;
+     margin-bottom: 2rem;
+    font-family: fell, Georgia, Cambria, "Times New Roman", Times, serif;
+
+}
+.errorp {
+    color: rgb(255, 44, 44);
+    margin-left: 4%;
+}
